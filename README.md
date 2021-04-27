@@ -1,3 +1,1 @@
-# Dino
 
-dino.gif
