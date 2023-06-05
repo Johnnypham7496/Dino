@@ -36,9 +36,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 
+### 😂 Random Dev Meme
+<img src="https://https://meme-api.com/gimme/" width="512px"/>
+
 <img src="https://raw.githubusercontent.com/Johnnypham7496/Johnnypham7496/output/snake.svg" alt="Snake animation" />
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ )
+profile readme generator (https://profile-readme-generator.com/) -->
 </p>
