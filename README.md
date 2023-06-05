@@ -9,7 +9,7 @@
 
 - A passionate backend dev from Minneapolis MN
 
-- A person who has love for the Gym, Video Games, Anime, and Coding
+- ⛹️‍♂️ A person who has love for the Gym, Video Games, Anime, and Coding
 
 - 📚 I’m currently learning **Python, RESTAPIs, DevOps**
 
