@@ -11,7 +11,7 @@
 
 - A person who has love for the Gym, Video Games, Anime, and Coding
 
-- 🌱 I’m currently learning **Python, RESTAPIs, DevOps**
+- 📚 I’m currently learning **Python, RESTAPIs, DevOps**
 
 - 👨‍💻 All of my projects are available at [Johnnypham7496](https://github.com/Johnnypham7496)
 
@@ -37,8 +37,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 
+<img src="https://raw.githubusercontent.com/Johnnypham7496/Johnnypham7496/output/snake.svg" alt="Snake animation" />
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ )-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ ) -->
 </p>
