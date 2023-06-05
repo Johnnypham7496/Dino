@@ -1,7 +1,6 @@
 
 ![image](https://github.com/Johnnypham7496/Dino/blob/main/dino.gif)
 <p>
-    <img src="![](https://komarev.com/ghpvc/?username=Johnnypham7496&style=flat-square&label=PROFILE+VIEWS)" alt="profile views">
 
 <h1 align="center">Hi 👋, I'm Johnny Pham</h1>
 <h3 align="center">A passionate backend dev from Minneapolis MN</h3>
@@ -28,4 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnypham7496&show_icons=true&locale=en" alt="johnnypham7496" /></p>
 
+<br>
+<br>
+
+To create your own Github profile using a generator, [Click Here](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 </p>
