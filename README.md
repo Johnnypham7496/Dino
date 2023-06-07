@@ -13,7 +13,7 @@
 
 - 📚 I’m currently learning **Python, RESTAPIs, DevOps**
 
-- 👨‍💻 All of my projects are available at [Johnnypham7496](https://github.com/Johnnypham7496)
+- 👨‍💻 All of my projects are available at [Johnnypham7496](https://github.com/Johnnypham7496){:target="_blank"}
 
 - 📫 How to reach me **johnpham7496@gmail.com**
 </h3>
