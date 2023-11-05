@@ -1,3 +1,7 @@
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in )
+GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ )
+profile readme generator (https://profile-readme-generator.com/) -->
+
 
 ![image](https://github.com/Johnnypham7496/Dino/blob/main/dino.gif)
 <p>
@@ -7,11 +11,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Johnnypham7496&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- A passionate backend dev from Minneapolis MN
+- A passionate software dev from Minneapolis MN
 
 - ⛹️‍♂️ A person who has love for the Gym, Video Games, Anime, and Coding
 
-- 📚 I’m currently learning **Python, RESTAPIs, DevOps**
+- 📚 I'm learning a whole variety of topics such as **Backend: Python, RESTful API's, DevOps. Frontend: HTML, CSS, JavaScript**
 
 - 👨‍💻 All of my projects are available at [Johnnypham7496](https://github.com/Johnnypham7496)
 
@@ -39,8 +43,4 @@
 ### 😂 
 
 <img src="https://raw.githubusercontent.com/Johnnypham7496/Johnnypham7496/output/snake.svg" alt="Snake animation" />
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) GitHub Profile README Generator ( https://rahuldkjain.github.io/gh-profile-readme-generator/ )
-profile readme generator (https://profile-readme-generator.com/) -->
 </p>
